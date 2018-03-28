@@ -1,6 +1,13 @@
 <?php
 /*
-Plugin Name: Asana Connect
+Plugin Name:  Asana Views
+Plugin URI:   https://developer.wordpress.org/plugins/asanaviews/
+Description:  Viewing an Asana project on a Wordpress Page
+Version:      0.1
+Author:       Digital Ideas
+Author URI:   https://www.digitalideas.io/
+License:      GPL2
+License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 */
 
 require 'php-asana/vendor/autoload.php';
